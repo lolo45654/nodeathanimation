@@ -1,0 +1,13 @@
+name: nodeathanimation
+version: '${version}'
+main: me.loloed.nodeathanimation.NoDeathAnimation
+api-version: '1.20'
+authors: [loloed]
+description: remove death animations (mctiers.com-like)
+softdepend:
+  - ProtocolLib
+  - ProtocolSupport
+  - ViaVersion
+  - ViaBackwards
+  - ViaRewind
+  - Geyser-Spigot
